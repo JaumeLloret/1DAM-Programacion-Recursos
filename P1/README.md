@@ -1,12 +1,13 @@
 # P1 · Java, datos, expresiones y control
 
-Biblioteca pública de **código, datos y starters de alumnado** que complementan la unidad P1 de Programación de 1.º DAM semipresencial.
+Biblioteca pública de **código, datos, starters y ejemplos** asociados a P1.
 
-- **AULES** contiene la teoría, la secuencia de trabajo, las consignas, la evaluación y las entregas.
-- Este repositorio sirve para **consultar y descargar archivos de trabajo**.
-- Antes de trabajar Git formalmente en Entornos de Desarrollo, puedes usar GitHub solo como biblioteca web o descargar archivos.
-- No contiene soluciones docentes, oráculos, recuperaciones, datos personales ni pruebas ocultas.
+La teoría, el orden de estudio, las consignas, la evaluación, la recuperación y la
+política de IA están en **AULES**. Este directorio sirve para explorar o descargar
+los recursos que AULES enlaza.
 
-## Contenido
+- Recursos públicos incluidos: **17**.
+- Recursos omitidos por política de publicación segura: **0**.
 
-- `recursos_java/`
+Antes de E2 no es necesario saber Git: puedes navegar por GitHub o usar el ZIP que
+AULES ofrece en la propia unidad. El uso formal de Git/GitHub se trabaja en Entornos.

@@ -1,14 +1,15 @@
 # P4 · Herencia, interfaces y composición
 
-Biblioteca pública de **código, datos y starters de alumnado** que complementan la unidad P4 de Programación de 1.º DAM semipresencial.
+Biblioteca pública de **código, datos, starters y ejemplos** asociados a P4.
 
-- **AULES** contiene la teoría, la secuencia de trabajo, las consignas, la evaluación y las entregas.
-- Este repositorio sirve para **consultar y descargar archivos de trabajo**.
-- Antes de trabajar Git formalmente en Entornos de Desarrollo, puedes usar GitHub solo como biblioteca web o descargar archivos.
-- No contiene soluciones docentes, oráculos, recuperaciones, datos personales ni pruebas ocultas.
+La teoría, el orden de estudio, las consignas, la evaluación, la recuperación y la
+política de IA están en **AULES**. Este directorio sirve para explorar o descargar
+los recursos que AULES enlaza.
 
-> **AulaFlow:** los recursos específicos de AulaFlow de esta unidad no se publican aquí antes de su momento curricular. Cuando corresponda, AULES proporcionará el paquete necesario.
+- Recursos públicos incluidos: **28**.
+- Recursos omitidos por política de publicación segura: **6**.
 
-## Contenido
+> Algunos materiales de AulaFlow no se incluyen aquí porque su nivel de revelación corresponde al momento previsto en AULES.
 
-- `recursos/`
+Antes de E2 no es necesario saber Git: puedes navegar por GitHub o usar el ZIP que
+AULES ofrece en la propia unidad. El uso formal de Git/GitHub se trabaja en Entornos.
