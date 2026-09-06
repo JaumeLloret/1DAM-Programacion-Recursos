@@ -1,0 +1,172 @@
+{
+  "schema": 2,
+  "source": "Programación/AULES/publication/Pn-RECURSOS.zip",
+  "units": {
+    "P1": {
+      "title": "Java, datos, expresiones y control",
+      "source_zip_sha256": "2c2a519544dd74c79912f0860fb7fbfcae1f32b745776bc2e8211afe4de32a0a",
+      "included_count": 17,
+      "excluded_count": 0,
+      "excluded": []
+    },
+    "P2": {
+      "title": "Métodos y programas mantenibles",
+      "source_zip_sha256": "ef0f37c32241ba04e8b725ec28a5790c9c7137c162da8659f3561ebbf4b40779",
+      "included_count": 10,
+      "excluded_count": 1,
+      "excluded": [
+        "recursos_java/AulaFlowUtilidadesPlantilla.java"
+      ]
+    },
+    "P3": {
+      "title": "Clases, objetos y encapsulación",
+      "source_zip_sha256": "85145b715f66660a0cb95f3890170905bc0b5686d75139dfdc538149f82a9add",
+      "included_count": 19,
+      "excluded_count": 2,
+      "excluded": [
+        "recursos/java/aulaflow/Actividad.java",
+        "recursos/java/aulaflow/DemoSlice.java"
+      ]
+    },
+    "P4": {
+      "title": "Herencia, interfaces y composición",
+      "source_zip_sha256": "9fbf8c704eb9a70861ab68a8b0c6a306d7d73227d34e9874eeff6e2c881a5921",
+      "included_count": 28,
+      "excluded_count": 6,
+      "excluded": [
+        "recursos/java/aulaflow/ActividadPlan.java",
+        "recursos/java/aulaflow/DemoAulaFlow.java",
+        "recursos/java/aulaflow/ElementoPlan.java",
+        "recursos/java/aulaflow/EstimacionConApoyo.java",
+        "recursos/java/aulaflow/EstimacionDirecta.java",
+        "recursos/java/aulaflow/PoliticaEstimacion.java"
+      ]
+    },
+    "P5": {
+      "title": "Datos y robustez",
+      "source_zip_sha256": "8fb89d32f9b1a02f2b64010ea2e6c8362ee68535549e532c57be777ded998165",
+      "included_count": 28,
+      "excluded_count": 0,
+      "excluded": []
+    },
+    "P6": {
+      "title": "Ficheros, CSV/JSON y JavaFX",
+      "source_zip_sha256": "42a07c1b9f2e7fab08f86b6a8eac6a51b324639384d1c10edcaa547328f30415",
+      "included_count": 8,
+      "excluded_count": 24,
+      "excluded": [
+        "recursos/starter-aulaflow-exchange-p6/CONTRATO_DATOS.md",
+        "recursos/starter-aulaflow-exchange-p6/CONTRATO_FORMATOS.md",
+        "recursos/starter-aulaflow-exchange-p6/README.md",
+        "recursos/starter-aulaflow-exchange-p6/datos/actividades-cabecera-invalida.csv",
+        "recursos/starter-aulaflow-exchange-p6/datos/actividades-campo-ausente.json",
+        "recursos/starter-aulaflow-exchange-p6/datos/actividades-horas-invalidas.csv",
+        "recursos/starter-aulaflow-exchange-p6/datos/actividades-json-truncado.json",
+        "recursos/starter-aulaflow-exchange-p6/datos/actividades-validas.csv",
+        "recursos/starter-aulaflow-exchange-p6/datos/actividades-validas.json",
+        "recursos/starter-aulaflow-exchange-p6/datos/csv-simple-restringido.csv",
+        "recursos/starter-aulaflow-exchange-p6/pom.xml",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/AccesoTexto.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/Actividad.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/AgendaActividades.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/AulaFlowExchangeApp.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/CsvActividades.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/DemoConsola.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/DemoJsonArbol.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/EstadoActividad.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/IntercambioException.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/JsonActividades.java",
+        "recursos/starter-aulaflow-exchange-p6/src/main/java/es/ies/aulaflow/p6/PresentadorConsola.java",
+        "recursos/starter-aulaflow-exchange-p6/src/test/java/es/ies/aulaflow/p6/ActividadTest.java",
+        "recursos/starter-aulaflow-exchange-p6/src/test/java/es/ies/aulaflow/p6/PresentadorConsolaTest.java"
+      ]
+    },
+    "P7": {
+      "title": "Persistencia: OODB y JDBC",
+      "source_zip_sha256": "37967acda4c823f7af2e8743f686e8264b4356058b0c8b0d992e4277d8acd821",
+      "included_count": 13,
+      "excluded_count": 12,
+      "excluded": [
+        "recursos/publicos/starter-aulaflow-h5-p7/.gitignore",
+        "recursos/publicos/starter-aulaflow-h5-p7/README.md",
+        "recursos/publicos/starter-aulaflow-h5-p7/pom.xml",
+        "recursos/publicos/starter-aulaflow-h5-p7/src/main/java/es/ies/aulaflow/p7/Actividad.java",
+        "recursos/publicos/starter-aulaflow-h5-p7/src/main/java/es/ies/aulaflow/p7/ActividadRepository.java",
+        "recursos/publicos/starter-aulaflow-h5-p7/src/main/java/es/ies/aulaflow/p7/ConexionSQLite.java",
+        "recursos/publicos/starter-aulaflow-h5-p7/src/main/java/es/ies/aulaflow/p7/EstadoActividad.java",
+        "recursos/publicos/starter-aulaflow-h5-p7/src/main/java/es/ies/aulaflow/p7/JdbcActividadRepository.java",
+        "recursos/publicos/starter-aulaflow-h5-p7/src/main/java/es/ies/aulaflow/p7/PersistenciaException.java",
+        "recursos/publicos/starter-aulaflow-h5-p7/src/main/java/es/ies/aulaflow/p7/SchemaSQLite.java",
+        "recursos/publicos/starter-aulaflow-h5-p7/src/main/resources/schema.sql",
+        "recursos/publicos/starter-aulaflow-h5-p7/src/test/java/es/ies/aulaflow/p7/ActividadTest.java"
+      ]
+    },
+    "P8": {
+      "title": "HTTP, API y contratos",
+      "source_zip_sha256": "836ef79c6b9bdedf6acd0f6a4dd32745fd749d6876049abc05d7459927eb516b",
+      "included_count": 4,
+      "excluded_count": 17,
+      "excluded": [
+        "recursos/starter-aulaflow-h6-p8/.gitignore",
+        "recursos/starter-aulaflow-h6-p8/CONTRATO_API.md",
+        "recursos/starter-aulaflow-h6-p8/README.md",
+        "recursos/starter-aulaflow-h6-p8/pom.xml",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/Actividad.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/ActividadHttpHandler.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/ActividadRepository.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/AulaFlowH6App.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/AulaFlowHttpServer.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/ConexionSQLite.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/EstadoActividad.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/JdbcActividadRepository.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/PersistenciaException.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/java/es/ies/aulaflow/p8/SchemaSQLite.java",
+        "recursos/starter-aulaflow-h6-p8/src/main/resources/schema.sql",
+        "recursos/starter-aulaflow-h6-p8/src/test/java/es/ies/aulaflow/p8/PersistenciaP7BaselineTest.java",
+        "recursos/starter-aulaflow-h6-p8/workflows/ci.yml"
+      ]
+    },
+    "P9": {
+      "title": "Arquitectura y evolución",
+      "source_zip_sha256": "e2ce98698e11ed67a6f914936c0d311df3c82ef146c16475930285bb28d979e5",
+      "included_count": 0,
+      "excluded_count": 26,
+      "excluded": [
+        "recursos/starter-aulaflow-h7-p9/.gitignore",
+        "recursos/starter-aulaflow-h7-p9/ADR-001-agenda.md",
+        "recursos/starter-aulaflow-h7-p9/CAMBIO_P9.md",
+        "recursos/starter-aulaflow-h7-p9/LECTURA_INICIAL.md",
+        "recursos/starter-aulaflow-h7-p9/README.md",
+        "recursos/starter-aulaflow-h7-p9/pom.xml",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/Actividad.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/ActividadHttpHandler.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/ActividadRepository.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/ActividadSalida.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/ActividadService.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/ApiError.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/AulaFlowHttpServer.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/AulaFlowP9App.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/CambioActividad.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/ConexionSQLite.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/ConflictoException.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/EstadoActividad.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/JdbcActividadRepository.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/NuevaActividad.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/PersistenciaException.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/PeticionException.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/java/es/ies/aulaflow/p9/SchemaSQLite.java",
+        "recursos/starter-aulaflow-h7-p9/src/main/resources/schema.sql",
+        "recursos/starter-aulaflow-h7-p9/src/test/java/es/ies/aulaflow/p9/AulaFlowHttpServerTest.java",
+        "recursos/starter-aulaflow-h7-p9/workflows/ci.yml"
+      ]
+    }
+  },
+  "resource_files": 127,
+  "policy": {
+    "future_generic_resources": "public",
+    "future_aulaflow": "excluded",
+    "solutions": "excluded",
+    "recovery": "excluded",
+    "teacher_material": "excluded"
+  }
+}
